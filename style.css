@@ -1,0 +1,39 @@
+body{
+    color: darkblue;
+    padding-left: 50px;
+    background-color: rgb(174, 173, 229);
+    background-image: linear-gradient(to right, lightblue 20% , rgb(233, 187, 233)
+     50%);
+
+    font-family: "PT Serif", serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+
+
+.content{
+    color: black;
+}
+
+.pl-10
+{
+    padding-left: 10px;
+}
+.p-5{
+    padding: 5px;
+}
+
+.p-custom{
+    padding: 5px;
+    padding-left: 10px;
+}
+#content-1{
+    margin-top: 40px;  
+    border: 1px solid red;
+}
+
+.custom-font{
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: italic;
+}
